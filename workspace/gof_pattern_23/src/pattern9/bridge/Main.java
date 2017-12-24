@@ -3,7 +3,7 @@ package pattern9.bridge;
 public class Main {
 
     public static void main(String[] args) {
-        // TODO 自動生成されたメソッド・スタブ
+
         Display d1 = new Display(new StringDisplayImpl("Hello, Japan."));
         Display d2 = new CountDisplay(new StringDisplayImpl("Hello, World."));
         CountDisplay d3 = new CountDisplay(new StringDisplayImpl("Hello, Universe."));
