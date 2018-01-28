@@ -1,0 +1,5 @@
+package pattern4.factorymethod.framework;
+
+public abstract class Factory {
+
+}

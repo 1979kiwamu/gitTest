@@ -1,0 +1,15 @@
+package pattern05.singleton;
+
+import java.util.stream.IntStream;
+
+public class MainTranning2 {
+
+    public static void main(String[] args) {
+
+        IntStream.range(0, 2).parallel().forEach( i -> {
+            Triple.getInstance(i);
+        });
+
+    }
+
+}

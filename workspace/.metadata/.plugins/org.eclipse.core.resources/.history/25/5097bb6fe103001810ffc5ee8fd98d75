@@ -1,0 +1,7 @@
+package pattern06.prototype.framework;
+
+public class Manager {
+    private HashMap showcase = new HashMap();
+
+
+}

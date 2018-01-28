@@ -1,0 +1,36 @@
+package exe;
+
+import java.util.Arrays;
+
+import java.util.List;
+import java.util.function.Consumer;
+
+import dao.EntityA;
+import dao.EntityB;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        // テストデータの生成
+        EntityA entA1 = new EntityA("A1", "B1", "C1");
+        EntityA entA2 = new EntityA("A2", "B2", "C2");
+        //EntityB entB1 = new EntityB("a1", "b1", "c1");
+
+        List<EntityA>  entList = Arrays.asList(entA1, entA2);
+
+//        for (EntityA ent : entList) {
+//            System.out.println(ent.getFieldA().toLowerCase());
+//            System.out.println(ent.getFieldB().toLowerCase());
+//            System.out.println(ent.getFieldC().toLowerCase());
+//        }
+
+        entList.forEach(ent -> System.out.println(ent.getFieldA().toLowerCase()));
+    }
+
+
+    public static void print(Consumer<?> consumer) {
+
+    }
+
+}

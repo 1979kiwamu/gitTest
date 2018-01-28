@@ -1,0 +1,5 @@
+package pattern12.decorator;
+
+public class Display {
+
+}

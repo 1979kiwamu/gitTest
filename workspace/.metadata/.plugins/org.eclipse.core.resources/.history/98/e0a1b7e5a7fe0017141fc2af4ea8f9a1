@@ -1,0 +1,29 @@
+package pattern3.templatemethod;
+
+public class CharDisplay extends AbstractDisplay {
+
+    private char ch;
+
+    public CharDisplay(char ch) {
+        this.ch = ch;
+    }
+
+    @Override
+    public void open() {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+    @Override
+    public void print() {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+    @Override
+    public void close() {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+}

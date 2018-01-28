@@ -1,0 +1,9 @@
+package pattern05.singleton;
+
+import java.util.Map;
+
+public class Triple {
+
+    private List<Triple> instance = new ArrayList<>();
+
+}

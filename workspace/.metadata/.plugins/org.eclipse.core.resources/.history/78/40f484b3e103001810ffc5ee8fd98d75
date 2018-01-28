@@ -1,0 +1,19 @@
+package pattern06.prototype;
+
+import pattern06.prototype.framework.Product;
+
+public class MessageBox implements Product {
+
+    @Override
+    public void use(String s) {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+    @Override
+    public Product createClone() {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+}

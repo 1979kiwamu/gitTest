@@ -1,0 +1,17 @@
+package pattern05.singleton;
+
+import java.util.stream.IntStream;
+
+public class MainTranning2 {
+
+    public static void main(String[] args) {
+
+        IntStream.range(5, 10).parallel().forEach( i -> {
+            System.out.println(i + "番目の呼び出し");
+            int callIndex = i % 3;
+            Triple.getInstance(callIndex);
+        });
+
+    }
+
+}

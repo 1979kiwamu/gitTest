@@ -1,0 +1,13 @@
+package pattern4.factorymethod.idcard;
+
+import pattern4.factorymethod.framework.Product;
+
+public class IDCard extends Product {
+
+    @Override
+    public void use() {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+}

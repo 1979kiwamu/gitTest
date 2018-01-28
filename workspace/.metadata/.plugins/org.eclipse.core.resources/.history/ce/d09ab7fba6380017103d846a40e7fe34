@@ -1,0 +1,17 @@
+package pattern10.strategy;
+
+public class ProbStrategy implements Strategy {
+
+    @Override
+    public Hand nextHand() {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+    @Override
+    public void study(boolean win) {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+}

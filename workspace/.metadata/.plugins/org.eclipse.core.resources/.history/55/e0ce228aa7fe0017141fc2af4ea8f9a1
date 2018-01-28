@@ -1,0 +1,5 @@
+package pattern3.templatemethod;
+
+public abstract class AbstractDisplay {
+
+}

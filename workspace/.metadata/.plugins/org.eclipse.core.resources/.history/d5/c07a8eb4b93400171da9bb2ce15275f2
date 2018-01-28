@@ -1,0 +1,13 @@
+package pattern8.abstractfactory.tablefactory;
+
+import pattern8.abstractfactory.factory.Link;
+
+public class TableLink extends Link {
+
+    @Override
+    public String makeHTML() {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+}

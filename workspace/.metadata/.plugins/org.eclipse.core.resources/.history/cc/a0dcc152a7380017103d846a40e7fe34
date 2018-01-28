@@ -1,0 +1,27 @@
+package pattern10.strategy;
+
+public class ProbStrategy implements Strategy {
+
+    private Random random;
+    private int prevHandValue = 0;
+    private int currentHandValue = 0;
+
+    private int[][] history = {
+            {1, 1, 1,},
+            {1, 1, 1,},
+            {1, 1, 1,},
+    };
+
+    @Override
+    public Hand nextHand() {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+    @Override
+    public void study(boolean win) {
+        // TODO 自動生成されたメソッド・スタブ
+
+    }
+
+}

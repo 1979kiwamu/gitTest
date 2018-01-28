@@ -1,0 +1,18 @@
+package pattern05.singleton;
+
+import java.util.stream.IntStream;
+
+public class MainTranning {
+
+    public static void main(String[] args) {
+
+
+        IntStream.range(0, 10).parallel().forEach( i -> {
+//            TicketMaker maker = TicketMaker.getInstance();
+          TicketMaker maker = new TicketMaker();
+            maker.getNextTicketNumber();
+        });
+
+    }
+
+}

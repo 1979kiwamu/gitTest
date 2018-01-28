@@ -1,0 +1,13 @@
+package pattern05.singleton;
+
+public class MainTranning2 {
+
+    public static void main(String[] args) {
+
+        IntStream.range(5, 10).parallel.foreach( i -> {
+
+        })
+
+    }
+
+}

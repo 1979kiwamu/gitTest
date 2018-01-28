@@ -1,0 +1,13 @@
+package pattern8.abstractfactory.tablefactory;
+
+import pattern8.abstractfactory.factory.Page;
+
+public class TablePage extends Page {
+
+    @Override
+    public String makeHTML() {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+}

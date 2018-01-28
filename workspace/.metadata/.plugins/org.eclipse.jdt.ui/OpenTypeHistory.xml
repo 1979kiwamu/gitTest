@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern9.bridge{Display.java[Display" modifiers="1" timestamp="1494422322000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern9.bridge{DisplayImpl.java[DisplayImpl" modifiers="1025" timestamp="1494421994000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern11.composite{Entry.java[Entry" modifiers="1025" timestamp="1495344466000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern12.decorator{Border.java[Border" modifiers="1025" timestamp="1497151526000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern13.visitor{Element.java[Element" modifiers="513" timestamp="1498966000000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern13.visitor{Entry.java[Entry" modifiers="1025" timestamp="1498967272000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern13.visitor{Visitor.java[Visitor" modifiers="1025" timestamp="1498965972000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern14.chainofresponsibility{Support.java[Support" modifiers="1025" timestamp="1508662170000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern16.mediator{Colleague.java[Colleague" modifiers="513" timestamp="1509261082000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern16.mediator{Mediator.java[Mediator" modifiers="513" timestamp="1509261032000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern22.command{Command.java[Command" modifiers="513" timestamp="1511073324000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern22.command{Drawable.java[Drawable" modifiers="513" timestamp="1511073950000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern23.interpreter{Node.java[Node" modifiers="1025" timestamp="1511677470000"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern3.templatemethod{AbstractDisplay.java[AbstractDisplay" modifiers="1025" timestamp="1516538682658"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern4.factorymethod.framework{Product.java[Product" modifiers="1025" timestamp="1516618591923"/>
+<typeInfo handle="=gof_pattern_23/src&lt;pattern4.factorymethod.framework{Factory.java[Factory" modifiers="1025" timestamp="1516618742658"/>
+</typeInfoHistroy>

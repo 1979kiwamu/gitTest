@@ -1,0 +1,11 @@
+package pattern05.singleton;
+
+public class MainTranning {
+
+    public static void main(String[] args) {
+
+        TicketMaker maker = TicketMaker.getInstance();
+
+    }
+
+}

@@ -1,0 +1,28 @@
+package pattern8.abstractfactory.tablefactory;
+
+import pattern8.abstractfactory.factory.Factory;
+import pattern8.abstractfactory.factory.Link;
+import pattern8.abstractfactory.factory.Page;
+import pattern8.abstractfactory.factory.Tray;
+
+public class TableFactory extends Factory {
+
+    @Override
+    public Link createLink(String caption, String url) {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+    @Override
+    public Tray createTray(String caption) {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+    @Override
+    public Page createPage(String title, String author) {
+        // TODO 自動生成されたメソッド・スタブ
+        return null;
+    }
+
+}

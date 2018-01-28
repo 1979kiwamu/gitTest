@@ -1,0 +1,5 @@
+package pattern06.prototype.framework;
+
+public class Manager {
+
+}

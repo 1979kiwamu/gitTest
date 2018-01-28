@@ -1,0 +1,5 @@
+package pattern10.strategy;
+
+public class Hand {
+
+}

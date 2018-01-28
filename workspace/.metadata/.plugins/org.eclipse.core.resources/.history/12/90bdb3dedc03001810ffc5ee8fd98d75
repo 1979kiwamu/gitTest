@@ -1,0 +1,9 @@
+package pattern05.singleton;
+
+import java.util.Map;
+
+public class Triple {
+
+    private Map<Integer, Triple> instance = new HashMap<>({0, new Triple()});
+
+}

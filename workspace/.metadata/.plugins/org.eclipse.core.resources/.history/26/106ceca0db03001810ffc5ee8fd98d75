@@ -1,0 +1,15 @@
+package pattern05.singleton;
+
+public class TicketMaker {
+    private static TicketMaker maker = new TicketMaker();
+    private int ticket = 1000;
+
+    public int getNextTicketNumber() {
+        return ticket++;
+    }
+
+    public static TicketMaker getInstance() {
+        return maker;
+    }
+
+}

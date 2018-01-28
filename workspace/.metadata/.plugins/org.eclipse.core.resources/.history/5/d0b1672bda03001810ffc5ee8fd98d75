@@ -1,0 +1,10 @@
+package pattern05.singleton;
+
+public class NoSingleton {
+
+    public static Singleton getInstance() {
+        return this;
+    }
+
+
+}

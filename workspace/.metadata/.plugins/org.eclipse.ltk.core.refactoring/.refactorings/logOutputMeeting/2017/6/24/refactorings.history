@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EntityA.java&apos; to &apos;logOutputMeeting/src/dao&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;logOutputMeeting&apos;&#x0D;&#x0A;- 宛先要素: &apos;logOutputMeeting/src/dao&apos;&#x0D;&#x0A;- オリジナル要素: &apos;dao.EntityA.java&apos;" description="コンパイル単位をコピー" destination="/src&lt;dao" element1="/src&lt;dao{EntityA.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1497448106166" units="1" version="1.0"/>
+</session>

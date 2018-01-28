@@ -1,0 +1,22 @@
+package pattern05.singleton;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Triple {
+    private int myId;
+    private static List<Triple> instance = Arrays.asList(new Triple(0), new Triple(1), new Triple(2));
+
+    private Triple() {
+        //コンストラクタ使用不可
+    }
+
+    private Triple(int id) {
+        myId = id;
+    }
+
+    public static Triple getInstance(int index) {
+        return instance.get(index);
+    }
+
+}

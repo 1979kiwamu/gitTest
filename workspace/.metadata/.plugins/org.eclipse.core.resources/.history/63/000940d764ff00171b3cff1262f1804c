@@ -1,0 +1,12 @@
+package pattern4.factorymethod;
+
+import pattern4.factorymethod.framework.Factory;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Factory factory = new IDCardFactory();
+        Product card1 = factory.create("");
+    }
+
+}
