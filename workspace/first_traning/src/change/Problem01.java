@@ -7,7 +7,7 @@ import util.NumericUtil;
 public class Problem01 {
 
     /**
-     * ランダムで生成した数値を振り分ける問題
+     * ランダムで生成した数値を振り分ける問題 
      * @param args
      */
     public static void main(String[] args) {
