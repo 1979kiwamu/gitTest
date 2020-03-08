@@ -6,8 +6,7 @@ public class Problem102 {
         /*
          * 1～10000のうち素数のみを出力せよ
          */
-    	//branch2→1から追加
-    	// newbranch1から追加
+        // 不要なコメントを削除
     }
 
 }

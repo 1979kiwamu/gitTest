@@ -6,7 +6,7 @@ public class Problem101 {
         /*
          * 1～10を足した結果を出力せよ
          */
-         // branch2としてgitKrakenから追加
+         // 修正①
     }
 
 }
